@@ -1,0 +1,1 @@
+open('result/22-8-10/duo/' + 'result_.csv','a')

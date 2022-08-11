@@ -1,0 +1,1 @@
+open('result_.csv', 'a', newline='')
